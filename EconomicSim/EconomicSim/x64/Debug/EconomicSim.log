@@ -1,0 +1,5 @@
+﻿  EconomicSim.cpp
+C:\Users\thequickbuilder6\Documents\Final_Project_Database\EconomicSim\EconomicSim\EconomicSim.cpp(59,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\thequickbuilder6\Documents\Final_Project_Database\EconomicSim\EconomicSim\EconomicSim.cpp(60,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\thequickbuilder6\Documents\Final_Project_Database\EconomicSim\EconomicSim\EconomicSim.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EconomicSim.vcxproj -> C:\Users\thequickbuilder6\Documents\Final_Project_Database\EconomicSim\x64\Debug\EconomicSim.exe
